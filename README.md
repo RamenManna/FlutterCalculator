@@ -1,6 +1,6 @@
-# helloworld
+# RamenCal
 
-A new Flutter project.
+A new Flutter basic Calculator project.
 
 ## Getting Started
 
